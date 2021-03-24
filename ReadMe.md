@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ee/08/82/ee088299f0902b77ede4ce0736ddc6b8.gif" width="27px">
+  <img src="https://i.pinimg.com/originals/ee/08/82/ee088299f0902b77ede4ce0736ddc6b8.gif" width="100px">
   <br><br>
   <samp>
     :wave: Hi! I am a young NodeJS developer. I usually made discord bot 🤖 , but I want to do other things like HTML, C, Python...
@@ -10,6 +10,6 @@
 
 <details>
   <summary><b>:telescope: My 2021 goal</b></summary>
-- [ ] I want to finish my discord bot 🤖 but I am not rich 🤑so to host it :/
-- [ ] I want to finish my discord dashboard, but ... there is the same problem to host it :sob: .
+-[ ] I want to finish my discord bot 🤖 but I am not rich 🤑so to host it :/
+-[ ] I want to finish my discord dashboard, but ... there is the same problem to host it :sob: .
 </details>
