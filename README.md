@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### About me
+I am a young french developer in NodeJS. I usually made discord bot but I want made website, apps and much more !
 
 <!--
 **TheYanilkatt/TheYanilkatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
