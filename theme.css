@@ -5,3 +5,13 @@ body
     color: white; /* Le texte de la page sera blanc */
     font-family: Verdana;
 }
+img
+{
+    border: 3px red inset;
+    border-radius: 30px;
+}
+
+img:hover
+{
+    box-shadow: 6px 6px 6px blue;
+}
