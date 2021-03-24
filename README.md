@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <title>Learn about me.</title>
   <body>
     <link rel="stylesheet" href="theme.css" />
     <h1 align=center>About me.</h1>
