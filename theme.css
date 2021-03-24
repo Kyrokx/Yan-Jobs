@@ -14,4 +14,5 @@ img
 img:hover
 {
     box-shadow: 6px 6px 6px blue;
+    border: 3px #262626 inset;
 }
