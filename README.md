@@ -7,7 +7,7 @@
     <img src="https://i.pinimg.com/originals/ee/08/82/ee088299f0902b77ede4ce0736ddc6b8.gif" width="100px">
     <br><br>
     <samp>
-      👋 Hi! I am a young NodeJS developer. I usually made discord bot 🤖 , but I want to do other things like HTML, C, Python...
+      👋 Hi! I am a young NodeJS developer. I usually made discord bot 🤖, I am also comfortable with Python but I want to do other things like HTML, C, Python...
       <br>My current work focuses on develop my bot an dashboard with React (this is a little bit hard ^^).
       <br><br> 💬 Wanna chat? 👉 DM me on Discord : " Yan Jobs#0001.
     </samp>
@@ -20,13 +20,12 @@
   </details>
     </samp>
     <details align="center">
-      <summary><b>My tools.</b></summary>
-      ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-      ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-      ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-      ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-      ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-      ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+      <summary><b>My tools and languages</b></summary>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+      <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi">
+      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
+      <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord">
    </details>
    <details>
   <summary><b>My stats</b></summary>
