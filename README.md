@@ -19,5 +19,16 @@
   I want to finish my discord dashboard, but... there is the same problem to host it 😭 .
   </details>
     </samp>
+    <h2 align="center">My tools.</h2>
+  <p align="center">
+    
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  
+  </p>
   </body>
 </html>
