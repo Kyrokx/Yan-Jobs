@@ -18,7 +18,7 @@
   
   I want to finish my discord dashboard, but... there is the same problem to host it 😭 .
   </details>
-    </samp>
+    <samp>
     <details align="center">
       <summary><b>My tools and languages</b></summary>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
@@ -27,10 +27,13 @@
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
       <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord">
    </details>
-   <details align="true">
+  </samp>
+  <samp>
+   <details align="center">
   <summary><b>My stats</b></summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-jobs&layout=compact&theme=radical" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark" align="right">
 </details>
+  </samp>
   </body>
 </html>
