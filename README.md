@@ -27,9 +27,10 @@
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
       <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord">
    </details>
-   <details>
+   <details align="true">
   <summary><b>My stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-jobs&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-jobs&layout=compact&theme=radical" align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark" align="right">
 </details>
   </body>
 </html>
