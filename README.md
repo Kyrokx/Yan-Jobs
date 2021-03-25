@@ -29,7 +29,7 @@
    </details>
    <details>
   <summary><b>My stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-jobs&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-jobs&layout=compact&theme=radical">
 </details>
   </body>
 </html>
