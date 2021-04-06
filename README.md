@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <style>
-      h1 {font-family: Arial}
-    </style>
     <h1 align=center>About me.</h1>
     <p align="center">
         <img src="assets/logo.gif" width="100px" alt="My logo">
