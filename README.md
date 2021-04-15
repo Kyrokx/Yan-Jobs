@@ -30,11 +30,11 @@
       </details>
       <br/>
       <br/>
-      <footer align="center">
-         <h1>
+      <footer >
+         <h1 align="center">
             My social networks
          </h1>
-         <div class="link">
+         <div class="link" align="center">
             <a href="https://github.com/Yan-Jobs" target="_blank"><img src="assets/link/github.svg" alt="Github" width="51"/></a>
             <a href="https://discord.com/channels/@me/735538297815957584" target="_blank"><img src="assets/link/discord.svg" alt="Discord" width="51"/></a>
             <a href="https://www.reddit.com/user/Yan_Jobs" target="_blank"><img src="assets/link/reddit.svg" alt="Reddit" width="51"></a>
