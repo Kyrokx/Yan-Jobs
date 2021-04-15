@@ -1,37 +1,46 @@
 <!DOCTYPE html>
-<html>
-  <body>
-    <h1 align=center>About me.</h1>
-    <p align="center">
-        <img src="assets/logo.gif" width="100px" alt="My logo">
-        <br><br>
-        <samp>👋 Hi! I am a young NodeJS developper. I usually create discord bot 🤖, I am also comfortable with Python but I want to do other things like HTML, C, Python...<br>My current work focuses on developping my bot and the dashboard with React (this is a little bit hard ^^).<br><br> 💬 Wanna chat? 👉 DM me on Discord : " Yan Jobs#0001.
-        </samp>
-    </p>
-    <samp>
-      <details align="center">
-        <summary><b> 🔭 My 2021 goal</b></summary>
-        I want to finish my discord bot 🤖 but I am not rich 🤑 so to host it :/, <br>I want to finish my discord dashboard, but... there is the same problem to host it 😭 .
+<html lang="en">
+   <body>
+      <h1>
+         About me
+      </h1>
+      <div class="content">
+         <img src="assets/logo.gif" width="100" alt="My logo" class="imgStyled">
+         <br><br>
+         👋 Hi! I am a young NodeJS developper. I usually create discord bots 🤖, I am also comfortable with Python but I want to do other things like HTML, C, Python...<br>My current work focuses on developping my bot and the dashboard with React (this is a little bit hard ^^).<br><br> 💬 Wanna chat? 👉 DM me on Discord : " Yan Jobs#0001.
+      </div>
+      <details>
+         <summary><b> 🔭 My 2021 goal</b></summary>
+         I want to finish my discord bot 🤖 but I am not rich so to host it :/, <br>I want to finish my discord dashboard, but... there is the same problem to host it 😭 .
       </details>
-    </samp>
-    <br>
-    <samp>
-      <details align="center">
-        <summary><b>My tools and languages</b></summary>
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github badge">
-        <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="Raspberry Badge">
-        <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="Mysql badge">
-        <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python badge">
-        <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord" alt="Discord badge">
+      <br>
+      <details>
+         <summary><b>My tools and languages</b></summary>
+         <img src="assets/githubLogo.svg" alt="Github badge" class="imgStyled">
+         <img src="assets/piLogo.svg" alt="Raspberry Badge" class="imgStyled">
+         <img src="assets/mysql.svg" alt="Mysql badge" class="imgStyled">
+         <img src="assets/pythonLogo.svg" alt="Python badge" class="imgStyled">
+         <img src="assets/discordLogo.svg  " alt="Discord badge" class="imgStyled">
       </details>
-    </samp>
-    <br>
-    <samp>
-      <details align="center">
-      <summary><b>My stats</b></summary>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-jobs&layout=compact&theme=radical&border_radius=30px" alt="Language stats.">
-      <img src="https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px" alt="Stats.">
-    </details>
-    </samp>
-  </body>
+      <br>
+      <details>
+         <summary><b>My stats</b></summary>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-Jobs&theme=radical&border_radius=30px" alt="Language stats."  class="imgStyled"/>
+         <img src="https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px" alt="Stats." class="imgStyled"/>
+      </details>
+      <br/>
+      <br/>
+      <footer>
+         <h1>
+            My social networks
+         </h1>
+         <div class="link">
+            <a href="https://github.com/Yan-Jobs" target="_blank"><img src="assets/link/github.svg" alt="Github" width="51"/></a>
+            <a href="https://discord.com/channels/@me/735538297815957584" target="_blank"><img src="assets/link/discord.svg" alt="Discord" width="51"/></a>
+            <a href="https://www.reddit.com/user/Yan_Jobs" target="_blank"><img src="assets/link/reddit.svg" alt="Reddit" width="51"></a>
+         </div>
+         <br />
+         <br />
+      </footer>
+   </body>
 </html>
