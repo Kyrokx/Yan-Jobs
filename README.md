@@ -1,46 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-   <body>
-      <h1 align="center">
-         About me
-      </h1>
-      <div class="content" align="center">
-         <img src="assets/logo.gif" width="100" alt="My logo" class="imgStyled">
-         <br><br>
-         👋 Hi! I am a young NodeJS developper. I usually create discord bots 🤖, I am also comfortable with Python but I want to do other things like HTML, C, Python...<br>My current work focuses on developping my bot and the dashboard with React (this is a little bit hard ^^).<br><br> 💬 Wanna chat? 👉 DM me on Discord : " Yan Jobs#0001.
-      </div>
-      <details align="center">
-         <summary><b> 🔭 My 2021 goal</b></summary>
-         I want to finish my discord bot 🤖 but I am not rich so to host it :/, <br>I want to finish my discord dashboard, but... there is the same problem to host it 😭 .
-      </details>
-      <br>
-      <details align="center">
-         <summary><b>My tools and languages</b></summary>
-         <img src="assets/githubLogo.svg" alt="Github badge" class="imgStyled">
-         <img src="assets/piLogo.svg" alt="Raspberry Badge" class="imgStyled">
-         <img src="assets/mysql.svg" alt="Mysql badge" class="imgStyled">
-         <img src="assets/pythonLogo.svg" alt="Python badge" class="imgStyled">
-         <img src="assets/discordLogo.svg  " alt="Discord badge" class="imgStyled">
-      </details>
-      <br>
-      <details align="center">
-         <summary><b>My stats</b></summary>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-Jobs&theme=radical&border_radius=30px" alt="Language stats."  class="imgStyled"/>
-         <img src="https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px" alt="Stats." class="imgStyled"/>
-      </details>
-      <br/>
-      <br/>
-      <footer >
-         <h1 align="center">
-            My social networks
-         </h1>
-         <div class="link" align="center">
-            <a href="https://github.com/Yan-Jobs" target="_blank"><img src="assets/link/github.svg" alt="Github" width="51"/></a>
-            <a href="https://discord.com/channels/@me/735538297815957584" target="_blank"><img src="assets/link/discord.svg" alt="Discord" width="51"/></a>
-            <a href="https://www.reddit.com/user/Yan_Jobs" target="_blank"><img src="assets/link/reddit.svg" alt="Reddit" width="51"></a>
-         </div>
-         <br />
-         <br />
-      </footer>
-   </body>
-</html>
+
+## Hey there 👋
+
+Welcome ! I'm Yan, a young NodeJS dev from  **Paris**, _in France_.
+
+### Projects :sparkles:
+
+All of my projects are open source :heart: !
+
+I am the developer of these projects _all are currently in development_:
+* [Yan](https://github.com/Yan-Jobs/Yan-Bot) _I haven’t any ideas for the name sorry 😣_, a moderation discord bot 🤖 with **SlashCommands**  :sparkles: !
+* [git-pkg](https://github.com/Yan-Jobs/git-pkg), a NodeJS package 📦 to use Git in your projects.
+* [piw](https://github.com/Yan-Jobs/piw), a cli to generate your new project as fast as a rocket 🚀 !
+* And many others projects in development !
+### Skills & Tools 🛠
+I use NodeJS <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/nodejs.svg" alt="NodeJS" width="20px" /> for all my apps, I am the best 😎 _lmao_ with the package discord.js. I use it because bots 🤖 are the best way to help other peoples to manage their community :sparkles:. I also like HTML <img src="https://iconape.com/wp-content/files/im/353223/svg/html5-without-wordmark-color.svg" alt="html" width="20px" /> and CSS <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/css.svg" alt="css" width="20px" /> to design website, _but I haven’t any ideas 💡_
+### Contact me 🤝
+* You can DM me on Discord <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/discord.svg" width="20px" alt="discord" />:  **" Yan Jobs#0001**,
+* Or **@YanJobs** on Twitter,
+* Or **u/Yan_Jobs** <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/reddit.svg" width="20px" alt="Reddit" /> on Redit,
+* Or send me an email 📧  at yan@yanjobs.me !
+## Some Stats 📊
+![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-Jobs&theme=radical&border_radius=30px&langs_count=3)
+![rankStats](https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px)
