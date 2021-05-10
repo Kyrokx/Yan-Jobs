@@ -1,7 +1,7 @@
 
 ## Hey there 👋
 
-Welcome ! I'm Yan, a young NodeJS dev from  **Paris**, _in France_.
+Welcome ! I'm Yanice, a young NodeJS dev from  **Paris**, _in France_.
 
 ### Projects :sparkles:
 
