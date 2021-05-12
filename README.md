@@ -23,4 +23,4 @@ I use NodeJS <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/
 ![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-Jobs&theme=radical&border_radius=30px)
 ![rankStats](https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px)
 ## 🏆 Trophies
-https://github-profile-trophy.vercel.app/?username=Yan-Jobs&no-bg=true
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yan-Jobs&no-bg=true)
