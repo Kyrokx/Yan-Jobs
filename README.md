@@ -8,7 +8,7 @@ Welcome ! I'm Yanice, a young NodeJS dev from  **Paris**, _in France_.
 All of my projects are open source :heart: !
 
 I am the developer of these projects _all are currently in development_:
-* [Yan](https://github.com/Yan-Jobs/Yan-Bot) _I haven’t any ideas for the name sorry 😣_, a moderation discord bot 🤖 with **SlashCommands**  :sparkles: !
+* [Yan](https://github.com/Yan-Jobs/Yan-Bot), a moderation discord bot 🤖 with **SlashCommands**  :sparkles: !
 * [git-pkg](https://github.com/Yan-Jobs/git-pkg), a NodeJS package 📦 to use Git in your projects.
 * [piw](https://github.com/Yan-Jobs/piw), a cli to generate your new project as fast as a rocket 🚀 !
 * And many others projects in development !
