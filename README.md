@@ -26,7 +26,7 @@ I am the developer of these projects _all are currently in development_:
 ### Skills & Tools 🛠
 I use NodeJS <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/nodejs.svg" alt="NodeJS" width="20px" /> for all my apps, I am the best 😎 _lmao_ with the package discord.js. I use it because bots 🤖 are the best way to help other peoples to manage their community :sparkles:. I also like HTML <img src="https://iconape.com/wp-content/files/im/353223/svg/html5-without-wordmark-color.svg" alt="html" width="20px" /> and CSS <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/css.svg" alt="css" width="20px" /> to design website, _but I haven’t any ideas 💡_
 ### Contact me 🤝
-* You can DM me on Discord <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/discord.svg" width="20px" alt="discord" />:  **" Yan Jobs#0001**,
+* You can DM me on Discord <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/discord.svg" width="20px" alt="discord" />:  **Yan Jobs#0001**,
 * Or **@YanJobs** on Twitter,
 * Or **u/Yan_Jobs** <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/assets/link/reddit.svg" width="20px" alt="Reddit" /> on Redit,
 * Or send me an email 📧  at yan@yanjobs.me !
