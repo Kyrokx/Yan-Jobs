@@ -35,6 +35,8 @@ I use NodeJS <img src="https://raw.githubusercontent.com/Yan-Jobs/Yan-Jobs/main/
 
 ![langStats](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-Jobs&theme=radical&border_radius=30px)
 ![rankStats](https://github-readme-stats.vercel.app/api?username=yan-jobs&count_private=true&show_icons=true&theme=onedark&border_radius=30px)
+![Wakatime](https://wakatime.com/share/@YanJobs/9f1641d6-4f25-4796-8da6-2964fc6eecb4.svg)
+
 ## 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Yan-Jobs&no-bg=true)
 ![](https://hit.yhype.me/github/profile?user_id=76485792)
